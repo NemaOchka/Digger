@@ -4,7 +4,7 @@
 </div>
 
 The first attempt at programming a relatively large project.
-A game that copies the functionality of the old arcade DIGGER.
+A console game that copies the functionality of the old arcade DIGGER.
 
 Original:
 ![Screenshot](original.JPG)
