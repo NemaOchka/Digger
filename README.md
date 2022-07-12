@@ -7,7 +7,7 @@ The first attempt at programming a relatively large project.
 A game that copies the functionality of the old arcade DIGGER.
 
 Original:
-![Screenshot](original.png)
+![Screenshot](original.JPG)
 
 My version:
 ![Screenshot](myversion.png)
